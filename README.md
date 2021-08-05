@@ -1,4 +1,4 @@
 # CrypSplice
 ### CrypSplice workflow
 
-![image](https://user-images.githubusercontent.com/68455070/124794109-410bce00-df81-11eb-8e99-bc17d02c37a7.png)
+![image](https://user-images.githubusercontent.com/68455070/128289347-30d47c37-a49c-49c3-8ed2-f2e156518a04.png)
